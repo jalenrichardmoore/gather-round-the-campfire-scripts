@@ -25,7 +25,7 @@ public class TitleManager : MonoBehaviour
         startDialogue = false;
         sceneLoaded = false;
     
-        // Stop all audio
+        // Stops all audio if audio is playing
         AudioManager.am.audioSource.Stop();
     }
 
