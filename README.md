@@ -44,7 +44,7 @@ Unity Version: 2022.3.4
 ## **Installation & Usage**
 1. Clone the repository:
 ```sh
-git clone https://github.com/Jalen-Moore/gather-round-the-campfire-scripts.git
+git clone https://github.com/jalenrichardmoore/gather-round-the-campfire-scripts.git
 ```
 
 2. Copy the scripts into your Unity project's 'Assets/Scripts/' folder
